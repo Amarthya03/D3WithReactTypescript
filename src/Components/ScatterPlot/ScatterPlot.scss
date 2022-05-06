@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+.tick > line {
+	stroke: #c0c0bb;
+}
+
+.tick > text {
+	fill: #635f5d;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+.mark {
+	fill: #137b80;
+}
+
+.axis-label {
+	font-size: 1.5em;
+	fill: #635f5d;
+}
